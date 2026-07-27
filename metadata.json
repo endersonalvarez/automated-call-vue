@@ -1,0 +1,6 @@
+{
+  "name": "Llamadas Automatizadas IA",
+  "description": "Plataforma inteligente para la gestión, emisión y análisis en tiempo real de llamadas automatizadas con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
